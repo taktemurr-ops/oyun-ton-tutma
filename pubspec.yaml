@@ -16,7 +16,7 @@ dependencies:
   muzik_motoru:
     git:
       url: https://github.com/taktemurr-ops/muzik-motoru
-      ref: cfc4f9d79074f8d6210db59df16324566e4910aa
+      ref: 95995e205ddadc82c9cdcbdfe043dde6e531624c
 
 dev_dependencies:
   flutter_test:
